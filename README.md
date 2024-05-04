@@ -7,7 +7,7 @@ Developed a cutting-edge real-time sign language recognition and translation sys
 
 2. Understanding Convolutional Neural Networks (CNNs): Subsequently, I delved into comprehending CNNs and their functionality. My primary learning resources included the official website of TensorFlow and machinelearningmastery.com.
 
-3. **CNN Model Development: I proceeded to develop a CNN model utilizing both TensorFlow and Keras, drawing inspiration from the architecture of the MNIST classifying model available on TensorFlow's tutorials. It's worth noting that for incorporating additional gestures, one may need to customize the network architecture by adding layers and adjusting parameters accordingly.
+3. CNN Model Development: I proceeded to develop a CNN model utilizing both TensorFlow and Keras, drawing inspiration from the architecture of the MNIST classifying model available on TensorFlow's tutorials. It's worth noting that for incorporating additional gestures, one may need to customize the network architecture by adding layers and adjusting parameters accordingly.
 
 4. Model Implementation: Once the model was trained using Keras, I integrated it with a video stream to facilitate real-time gesture recognition.
 
